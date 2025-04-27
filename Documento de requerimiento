@@ -1,0 +1,25 @@
+        Documento de Requerimiento
+El programa necesita estas condiciones para funcionar:
+-Una pregunta.
+-Una respuesta.
+
+Definición:
+El programa debe tener preguntas frecuentes con su respectiva respuesta, que se pueda acceder a ellas si un usuario selecciona dicha pregunta.
+
+propósito:
+Tiene como único propósito responder las preguntas ya establecidas y escogidas por el usuario.
+
+Requisitos no funcionales:
+-Seguir la línea de preguntas.
+-Solo proveer preguntas y respuestas concisas.
+
+Requisitos de calidad:
+-Respuestas concisas.
+-Preguntas generales.
+
+Restricciones:
+-El sistema solo responde preguntas frecuentes.
+
+Dependencias:
+-Que exista una pregunta.
+-Las preguntas que están en el programa.
